@@ -54,7 +54,7 @@ geolocator = Nominatim(user_agent="MyApp")
 mydb = mysql.connector.connect(
   host="localhost",
   user="root",
-  password="xpss1922a",
+  password="x",
   database="script"
 )
 
